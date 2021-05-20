@@ -1,0 +1,12 @@
+{
+  "name": "authorization-backend",
+  "version": "1.0.0",
+  "description": "Test backend part for authorization, registration and password change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexander Kolodchenko",
+  "license": "ISC"
+}
